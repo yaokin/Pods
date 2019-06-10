@@ -1,0 +1,6 @@
+framework module Pods_TagList {
+  umbrella header "Pods-TagList-umbrella.h"
+
+  export *
+  module * { export * }
+}
